@@ -1,0 +1,16 @@
+{
+  "name": "init-web-stack",
+  "homepage": "https://github.com/yigitozkavci/init-web-stack",
+  "authors": [
+    "yigitozkavci <yigitozkavci8@gmail.com>"
+  ],
+  "description": "A template for small projects that are written with modern stack.",
+  "main": "index.html",
+  "moduleType": [],
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^2.2.1",
+    "bootstrap": "^3.3.6",
+    "font-awesome": "^4.5.0"
+  }
+}
